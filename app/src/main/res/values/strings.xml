@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokemonSelector</string>
+    <string name="choose_pokemon">Choose pokemon</string>
+</resources>
